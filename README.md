@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-[![LeetCode Stats](https://leetcode.com/barispinara)](https://leetcard.jacoblin.cool/barispinara?theme=unicorn&font=Adamina&ext=activity)
+[![](https://leetcard.jacoblin.cool/barispinara?theme=nord&font=Baloo%20Tamma%202&ext=activity)](https://leetcode.com/barispinara/)
 
 <!--
 **barispinara/barispinara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
