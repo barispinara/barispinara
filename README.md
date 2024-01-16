@@ -12,7 +12,7 @@ Computer Engineering graduate from TED University (2022). <br>Trained in Python 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=barispinara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=barispinara&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=barispinara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=barispinara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=barispinara&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
