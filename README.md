@@ -1,5 +1,3 @@
-<!--[![](https://leetcard.jacoblin.cool/barispinara?theme=nord&font=Baloo%20Tamma%202&ext=activity)](https://leetcode.com/barispinara/)-->
-
 # Hi, I'm Barış 👋
 
 **Backend Engineer** with 3+ years of experience building scalable, cloud-native systems for international companies — from a London-based healthtech startup to a US healthcare provider.
@@ -23,11 +21,3 @@
 **Backend:** Spring Boot · Flask · REST APIs · WebSocket
 **Data & Messaging:** PostgreSQL · MSSQL · MongoDB · Kafka · Apache Airflow
 **Cloud & DevOps:** AWS (Lambda, Kinesis, S3, Fargate) · Azure (Microservices) · Docker · Linux
-
-## 📊 GitHub Stats
-
-![Barış's GitHub stats](https://github-readme-stats.vercel.app/api?username=barispinara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
